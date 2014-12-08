@@ -9,7 +9,9 @@ hitheme     : tomorrow      #
 widgets     : [quiz, bootstrap]            # {mathjax, quiz, bootstrap}
 mode        : selfcontained # {standalone, draft}
 knit        : slidify::knit2slides
-
+github:
+  user: erowe
+  repo: MoCoPres
 --- 
 ## Welcome 
 
@@ -19,7 +21,7 @@ knit        : slidify::knit2slides
 
 - Residents are spread across 491.25 square miles*
 
-- Montgomery Country has an open data project (https://data.montgomerycountymd.gov/)
+- Montgomery County has an open data project (https://data.montgomerycountymd.gov/)
 
 - They have hundreds of thousands of entries for traffic violations since January 2012
 
@@ -61,13 +63,11 @@ The answer is "Yes."
 
 
 ---
-## Using the application
-- To adjust the hours of the day that stops occurred, move the slider to the appropriate start and end times. To view all hours of the day, set the values to 0 and 24
+## Why use this application?
+1. Maybe you want to compare this to other open data projects
 
-- To view stops related to alcohol, click', <i>Highlight Alcohol Related Stops</i>
+2. It stimulates your mind to wonder why certain areas have a higher concentration of activity
 
-<img src = "truncate.png">
+3. Maybe you want to convince your friend / co-worker / child not to stay out late
 
-- The <i>Draw Map</i> button will create the map
-
-<img src = "draw.png">
+4. It might make you a more cautious driver while traveling in the area
