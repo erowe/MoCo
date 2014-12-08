@@ -11,7 +11,7 @@ mode        : selfcontained # {standalone, draft}
 knit        : slidify::knit2slides
 github:
   user: erowe
-  repo: MoCoPres
+  repo: MoCo
 --- 
 ## Welcome 
 
