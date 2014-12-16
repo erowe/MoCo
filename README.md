@@ -12,3 +12,7 @@ The Draw Map button will create the map.
 NOTE: Any update to the slider values will not update the map automatically. It is unfavorable to have the map automatically redraw if you need to adjust both numbers on the slider. To update the map, click the Draw Map button.
 
 NOTE: The Highlight Alcohol Related Stops checkbox automatically refreshes the map when it is used.
+
+Starting the Application
+------------------------
+Visit http://erowe.github.io/MoCo
