@@ -53,7 +53,7 @@ The answer is "Yes."
 
 ---
 ## The application
-1. The application is hosted at: https://erowe.shinyapps.io/MoCoTraffiicPlotter
+1. The application is hosted at: https://erowe.shinyapps.io/MoCo
 
 2. This application displays traffic stops in the Montgomery County Maryland area over the last two years
 
