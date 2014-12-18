@@ -51,6 +51,8 @@ shinyUI(fluidPage(
       hr(),
       progressInit(),
       actionButton("drawMe", "Draw Map"), 
+      hr(),
+      p("Documentation:",a("CourseProject",href="Readme.html")),
       hr()
   ),
       
