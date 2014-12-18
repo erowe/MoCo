@@ -13,6 +13,10 @@ NOTE: Any update to the slider values will not update the map automatically. It 
 
 NOTE: The Highlight Alcohol Related Stops checkbox automatically refreshes the map when it is used.
 
+Starting the Presentation
+------------------------
+Visit <http://erowe.github.io/MoCo/>
+
 Starting the Application
 ------------------------
-Visit http://erowe.github.io/MoCo
+Visit <http://erowe.shinyapps.io/MoCo/>
